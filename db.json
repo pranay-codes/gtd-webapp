@@ -1,0 +1,18 @@
+{
+  "nextActionItems": [
+    {
+      "id": 1,
+      "title": "Complete project documentation",
+      "dueDate": "2024-08-30",
+      "context": "Work",
+      "details": "Finalize the API documentation and submit it to the team."
+    },
+    {
+      "id": 2,
+      "title": "Grocery shopping",
+      "dueDate": "2024-08-22",
+      "context": "Personal",
+      "details": "Buy fruits, vegetables, and other essentials."
+    }
+  ]
+}
