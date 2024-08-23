@@ -27,6 +27,9 @@ jobs:
       - name: Build the React app
         run: npm run build
 
+      - name: Test the web app
+        run: npm test
+
       - name: Deploy to S3
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
