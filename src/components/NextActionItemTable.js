@@ -53,7 +53,7 @@ const NextActionItemsTable = () => {
         <Table stickyHeader>
           <TableHead>
             <TableRow>
-              {['Title', 'Due Date', 'Context', 'Details-1'].map(
+              {['Title', 'Due Date', 'Context', 'Details-2'].map(
                 (headCell, index) => (
                   <TableCell key={index}>
                     <TableSortLabel
